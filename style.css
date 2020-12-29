@@ -1,0 +1,52 @@
+body {
+    margin: auto;
+    background-color: black;
+    font-family: 'Dancing Script', cursive;
+}
+.container {
+    width: 600px;
+    height: 350px;
+    margin: auto;
+    background-color: white;
+    margin-top: 40px;
+    padding: 15px;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+img {
+    width: 75px;
+    height: 75px;
+}
+.postcardbody {
+    display: flex;
+    padding: 10px;
+    margin-top: 10px;
+}
+.btn {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    
+    
+    
+}
+input {
+    border: hidden;
+    border-bottom: 1px solid #ede;
+    font-size: 18px;
+    font-family: 'Dancing Script', cursive;
+    
+}
+form {
+    margin-left: 15px;
+}
+button {
+    background-color: grey;
+    border: hidden;
+    font-size: 20px;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+}
